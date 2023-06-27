@@ -3,6 +3,7 @@ I am Marcel, a highly motivated researcher and Data Science enthusiast with a st
 
 An MSc. Engineer from the University of Brasilia with a one-year international program in Spain. 
 Moreover, I am interested in urban mobility and bicycle research. Also, I am a novel writer and passionate reader. Let's talk?
+
 <!--
 **marcellmello/marcellmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

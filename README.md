@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 
 ![[LinkedIn](https://www.linkedin.com/in/marcelmello/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![[Medium](https://medium.com/@marcellmello)](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+
+
+[![](https://visitcount.itsvg.in/api?id=marcellmello&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)

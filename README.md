@@ -3,11 +3,12 @@ I am an MSc. Engineer from the University of Brasilia (UnB) in Brazil, with a on
 
 I have been working as a Data Analytics Engineer for a while, building a fulfilling and solid career path through data.
 
-Additionally, I am a researcher and Data Science enthusiast, driven by a strong passion for continuous learning. I am particularly keen on leveraging data for research related to urban mobility and bicycles. Also, I am an aspiring novelist and a passionate reader. Let's talk?   📫
+Additionally, I am a researcher and Data Science enthusiast, driven by a strong passion for continuous learning. I am particularly keen on leveraging data for research related to urban mobility and bicycles. Also, I am an aspiring novelist and a passionate reader. 
+Let's talk?   📫
 
 
-![[LinkedIn](https://www.linkedin.com/in/marcelmello/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![[Medium](https://medium.com/@marcellmello)](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelmello/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marcellmello)
 
 
 

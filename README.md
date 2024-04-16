@@ -1,9 +1,9 @@
 ### Hi there 👋
-I am an MSc. Engineer from the University of Brasilia (UnB) in Brazil, with a one-year international engineering program in Spain. My experience includes data platforms, data governance, analytics, data modeling, machine learning, and data product management.
+As a Data Engineer, I specialize in Analytics Engineering, data platforms, data governance, data modeling, data quality, analytics, and machine learning. 
 
-I have been working as a Data Analytics Engineer for a while, building a fulfilling and solid career path through data.
+I hold an M.Sc. in engineering from the University of Brasilia (UnB) in Brazil, complemented by a year-long international engineering program in Spain.
 
-Additionally, I am a researcher and Data Science enthusiast, driven by a strong passion for continuous learning. I am particularly keen on leveraging data for research related to urban mobility and bicycles. Also, I am an aspiring novelist and a passionate reader. 
+Additionally, I am a researcher and Data Science enthusiast, driven by a strong passion for continuous learning. I am particularly keen on leveraging data for research related to urban mobility and bicycles. 
 Let's talk?   📫
 
 

@@ -1,9 +1,9 @@
 ### Hi there 👋
-As a Data Engineer, I specialize in Analytics Engineering, data platforms, data governance, data modeling, data quality, analytics, and machine learning. 
+As a Data Engineer, I specialize in Analytics Engineering covering data platforms, data governance, data modeling, data quality, and machine learning ( AI ). 
 
-I hold an M.Sc. in engineering from the University of Brasilia (UnB) in Brazil, complemented by a year-long international engineering program in Spain.
+I hold an M.Sc. in engineering from the University of Brasilia (UnB) in Brazil, complemented by a year-long international engineering program in Spain. 
 
-Additionally, I am a researcher and Data Science enthusiast, driven by a strong passion for continuous learning. I am particularly keen on leveraging data for research related to urban mobility and bicycles. 
+Additionally, I am a researcher and Data Science enthusiast, driven by a strong passion for continuous learning and leveraging data for data-driven solutions through engineering.
 Let's talk?   📫
 
 

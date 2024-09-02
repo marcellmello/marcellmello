@@ -1,7 +1,7 @@
 ### Hi there 👋
-As a Data Engineer with years of experience in Analytics Engineering, I specialize in building and optimizing data platforms, implementing data governance strategies, developing data models, ensuring data quality, and integrating machine learning (AI) solutions.
+As a Data Engineer with years of experience in Analytics Engineering, I specialize in building and optimizing data platforms and ingestion pipelines, implementing data governance strategies, developing data models, ensuring data quality, and integrating machine learning (AI) solutions.
 
-I hold an M.Sc. in transportation engineering from the Universidade de Brasília (UnB) in Brazil, complemented by a year-long international engineering program in Spain during my undergrad studies, which broadened my global perspective. 
+I hold an M.Sc. in transportation engineering from the Universidade de Brasília (UnB) in Brazil, complemented by a year-long international engineering program in Spain, which broadened my global perspective. 
 
 Additionally, I am a researcher and Data Science enthusiast, driven by a strong passion for continuous learning and utilizing data to create impactful, data-driven solutions through engineering.
 Let's talk?  📫

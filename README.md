@@ -1,10 +1,9 @@
 ### Hi there 👋
-I am a data engineer with several years of experience in analytics engineering, specializing in data modeling, integrations, visualization, data governance, and data quality. I design and optimize scalable data platforms and ingestion pipelines that enable reliable, high-impact analytics across projects.
+I am an analytics engineer with 8+ years of engineering experience, specializing in data modeling, pipeline integration, data governance, data quality, and data visualization. I design and optimize scalable data platforms and ingestion pipelines that enable reliable, high-impact analytics across projects.
 
-With an M.Sc. in Engineering from the University of Brasília (UnB), complemented by a year-long international engineering program in Spain, I bring a strong analytical foundation and problem-solving mindset to data challenges.
+I hold a master’s degree in Engineering from the University of Brasília (UnB), complemented by a year-long international engineering program in Spain. This provided me with a solid analytical foundation and a mindset geared towards solving complex data-related problems.
 
-I am driven by continuous learning and passionate about transforming raw data into trusted, actionable insights through engineering, code, and AI.
-Let's talk?  📫
+I am driven by continuous learning and passionate about transforming raw data into trusted, actionable insights through engineering, code, and AI. - Let’s talk?   📫
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelmello/)
